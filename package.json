@@ -11,11 +11,19 @@
     "type": "git",
     "url": "https://github.com/victor-valencia/bootstrap-iconpicker.git"
   },
+  "scripts": {
+    "lint": "eslint ./gulpfile.js",
+    "gulp": "gulp"
+  },
   "devDependencies": {
-    "grunt": "^0.4.0",
-    "grunt-contrib-concat": "^0.5.1",
-    "grunt-contrib-cssmin": "^0.12.3",
-    "grunt-contrib-uglify": "^0.9.1",
-    "grunt-contrib-watch": "^0.6.1"
+    "eslint": "3.X",
+    "eslint-config-airbnb-base": "11.X",
+    "eslint-plugin-import": "2.X",
+    "gulp": "3.X",
+    "gulp-clean-css": "^3.4.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sequence": "0.4.X",
+    "gulp-uglify": "3.X",
+    "rimraf": "2.X"
   }
 }
