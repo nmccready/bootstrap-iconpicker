@@ -12,7 +12,7 @@
     "url": "https://github.com/victor-valencia/bootstrap-iconpicker.git"
   },
   "scripts": {
-    "lint": "eslint ./gulpfile.js",
+    "lint": "eslint ./gulpfile.js ./js/*.js ./js/**/*.js",
     "gulp": "gulp"
   },
   "devDependencies": {
