@@ -1,19 +1,21 @@
 {
   "name": "bootstrap-iconpicker",
   "version": "1.7.0",
-  "homepage": "https://victor-valencia.github.com/bootstrap-iconpicker",
+  "homepage": "https://nmccready.github.com/bootstrap-iconpicker",
   "author": {
-    "name": "Victor Valencia Rico",
-    "email": "valencia_vik@hotmail.com.com",
-    "url": "https://victor-valencia.github.com/"
+    "name": "Nicholas McCready",
+    "email": "nemtcan@gmail.com",
+    "url": "https://www.github.com/nmccready"
   },
+  "originalAuthor": "Victor Valencia Rico",
   "repository": {
     "type": "git",
-    "url": "https://github.com/victor-valencia/bootstrap-iconpicker.git"
+    "url": "https://github.com/nmccready/bootstrap-iconpicker.git"
   },
   "scripts": {
     "lint": "eslint ./gulpfile.js ./js/*.js ./js/**/*.js",
-    "gulp": "gulp"
+    "gulp": "gulp",
+    "start": "npm run gulp"
   },
   "devDependencies": {
     "eslint": "3.X",
