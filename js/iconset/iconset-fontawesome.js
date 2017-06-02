@@ -1,4 +1,5 @@
-/*!========================================================================
+/* global jQuery, $ */ // eslint-disable-line
+/*!
  * Bootstrap: iconset-fontawesome-4.7.0.js
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
@@ -19,9 +20,10 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- * ======================================================================== */
-;(function($) {
-  $.iconset_fontawesome = {
+ *
+*/
+(function ($) { // eslint-disable-line wrap-life
+  $.iconset_fontawesome = { // eslint-disable-line no-param-reassign
     iconClass: 'fa',
     iconClassFix: 'fa-',
     icons: [
