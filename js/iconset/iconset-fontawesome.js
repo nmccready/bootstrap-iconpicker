@@ -1,4 +1,5 @@
-/* global jQuery, $ */ // eslint-disable-line
+// eslint-disable-next-line
+/* global jQuery, $ */
 /*!
  * Bootstrap: iconset-fontawesome-4.7.0.js
  * https://victor-valencia.github.com/bootstrap-iconpicker
