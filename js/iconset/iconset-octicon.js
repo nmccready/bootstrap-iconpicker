@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-octicon-2.1.2.js by @recktoner
+ * Bootstrap: iconset-octicon.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Octicons 2.1.2

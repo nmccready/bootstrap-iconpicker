@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-materialdesign-1.1.1.js by @recktoner
+ * Bootstrap: iconset-materialdesign.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Material Design 1.1.1

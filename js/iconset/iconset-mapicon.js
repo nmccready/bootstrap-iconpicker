@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-mapicon-2.1.0.js by @recktoner
+ * Bootstrap: iconset-mapicon.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Map Icons 2.1.0

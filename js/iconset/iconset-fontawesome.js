@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-fontawesome-4.7.0.js
+ * Bootstrap: iconset-fontawesome.js
  * https://www.github.com/nmccready/bootstrap-iconpicker
  *
  * Iconset: Font Awesome 4.7.0

@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-typicon-2.0.6.js by @recktoner
+ * Bootstrap: iconset-typicon.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Typicons 2.0.6

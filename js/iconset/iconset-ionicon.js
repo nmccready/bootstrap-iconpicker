@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-ionicon-1.5.2.js by @recktoner
+ * Bootstrap: iconset-ionicon.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Ionicons 1.5.2

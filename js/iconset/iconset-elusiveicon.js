@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-elusiveicon-2.0.0.js by @recktoner
+ * Bootstrap: iconset-elusiveicon.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Elusive icons 2.0.0

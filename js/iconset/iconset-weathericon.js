@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 /* global jQuery, $ */
 /*!
- * Bootstrap: iconset-weathericon-1.2.0.js by @recktoner
+ * Bootstrap: iconset-weathericon.js by @recktoner
  * https://victor-valencia.github.com/bootstrap-iconpicker
  *
  * Iconset: Weather Icons 1.2.0
