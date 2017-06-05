@@ -2,12 +2,12 @@
 /* global jQuery, $ */
 /*!
  * Bootstrap: iconset-fontawesome-4.7.0.js
- * https://victor-valencia.github.com/bootstrap-iconpicker
+ * https://www.github.com/nmccready/bootstrap-iconpicker
  *
  * Iconset: Font Awesome 4.7.0
  * http://fortawesome.github.io/Font-Awesome/
  * ========================================================================
- * Copyright 2013-2015 Victor Valencia Rico.
+ * Copyright 2013-2017 Victor Valencia Rico.
  * Icons Updated by Sepehr Mohaghegh
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

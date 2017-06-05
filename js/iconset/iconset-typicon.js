@@ -7,7 +7,7 @@
  * Iconset: Typicons 2.0.6
  * https://github.com/stephenhutchings/typicons.font
  * ========================================================================
- * Copyright 2013-2015 Victor Valencia Rico.
+ * Copyright 2013-2017 Victor Valencia Rico.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

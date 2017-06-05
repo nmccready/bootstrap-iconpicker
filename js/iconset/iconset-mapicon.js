@@ -7,7 +7,7 @@
  * Iconset: Map Icons 2.1.0
  * https://github.com/scottdejonge/Map-Icons
  * ========================================================================
- * Copyright 2013-2015 Victor Valencia Rico.
+ * Copyright 2013-2017 Victor Valencia Rico.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

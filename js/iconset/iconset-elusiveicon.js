@@ -7,7 +7,7 @@
  * Iconset: Elusive icons 2.0.0
  * http://press.codes/downloads/elusive-icons-webfont/
  * ========================================================================
- * Copyright 2013-2015 Victor Valencia Rico.
+ * Copyright 2013-2017 Victor Valencia Rico.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
